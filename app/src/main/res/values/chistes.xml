@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titulos">
+        <item>Dime con quién andas...</item>
+        <item>Luz automática</item>
+        <item>Política argentina</item>
+        <item>0 positivo</item>
+        <item>Mejor portero</item>
+        <item>Donación para la piscina</item>
+        <item>Clase de astrología</item>
+        <item>Bob Esponja</item>
+        <item>Ojalá lloviera</item>
+        <item>En Canarias</item>
+        <item>Dicen que estoy loco</item>
+        <item>Bocadillo de jamón</item>
+        <item>Te echan de varias universidades</item>
+        <item>Un pelo en la cama</item>
+        <item>Entre techos</item>
+        <item>Se va la luz</item>
+        <item>País sin tacos</item>
+        <item>Messi de aquí a 45 días</item>
+        <item>Mundo con forma cubica</item>
+        <item>Saludable</item>
+    </string-array>
+    <string-array name="contenido">
+        <item>- Dime con quién andas y te diré quién eres.
+            \n- No ando con nadie...
+            \n- Eres feo.</item>
+        <item>Va el marido completamente borracho y le dice a su mujer al irse para la cama:
+            \n- Me ha pasado algo increíble. He ido al baño y al abrir la puerta se ha encendido la luz automáticamente, sin hacer nada.
+            \n- ¡La madre que te parió!, ¡Te mato!, ya te has vuelto a mear en la nevera.</item>
+        <item>Un diputado argentino se encuentra en la calle con un amigo de la infancia y éste le pregunta:
+            \n- ¿Cómo estás llevando esta crisis?
+            \n- ¡La verdad que duermo como un bebé!
+            \n- ¡Dormís como un bebé! ¿Pero cómo hacés?
+            \n- ¡Me despierto cada 3 horas llorando!</item>
+        <item>- ¡Rápido, necesitamos sangre!
+            \n- Yo soy 0 positivo.
+            \n- Pues muy mal, necesitamos una mentalidad optimista.</item>
+        <item>- ¿Cuál es el mejor portero del mundial?
+            \n- Evidente ¡el de Para-guay!</item>
+        <item>El otro día unas chicas llamaron a mi puerta y me pidieron una pequeña donación para una piscina local.
+            Les di un garrafa de agua.</item>
+        <item>- Andresito, ¿qué planeta va después de Marte?
+            \n- Miércole, señorita.</item>
+        <item>- ¿Por qué Bob Esponja no va al gimnasio?
+            \n- Porque ya está cuadrado.</item>
+        <item>Van dos ciegos y le dice uno al otro:
+            \n- Ojalá lloviera...
+            \n- Ojalá yo también...</item>
+        <item>Noticia de última hora!!
+            \nMuere una suegra atropellada en Canarias.
+            \nY esto es todo, las 8 en España y UNA menos en Canarias...</item>
+        <item>– Mamá, mamá, en el colegio dicen que estoy loco.
+            \n– ¿Y quién dice eso de ti?
+            \n– ...Me lo dicen las sillas...</item>
+        <item>– Mamá, mamá, ¿me haces un bocata de jamón?
+            \n– ¿York?
+            \n– Sí, túrk.</item>
+        <item>- Qué pasa si te expulsan de cuatro univerdades?
+            \n- ....
+            \n- Que estás perdiendo facultades</item>
+        <item>- Qué es un pelo en una cama?
+            \n- ...
+            \n- El bello durmiente</item>
+        <item>- Qué le dice el techo del comedor al techo de la cocina?
+            \n- ....
+            \n- Te hecho de menos!</item>
+        <item>- Qué pasa si se va la luz en una escuela privada?
+            \n- ....
+            \n- No se ve ni un pijo!</item>
+        <item>- En qué se convierte un país en el que se prohíben los tacos?
+            \n- ....
+            \n- En un país destacado!</item>
+        <item>- Qué es Messi en 45 días?
+            \n- ........
+            \n- Mes y medio!</item>
+        <item>- Qué pasaría si el mundo en lugar de ser una esfera fuera un cubo?
+            \n- ....
+            \n- Pues que todos seríamos cubanos</item>
+        <item>- Soy una persona muy saludable.
+            \n- ¿Haces mucho deporte y comes sano?
+            \n- No. Es que la gente me saluda por la calle y yo... pues les devuelvo el saludo.</item>
+    </string-array>
+</resources>
